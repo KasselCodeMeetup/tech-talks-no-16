@@ -1,0 +1,3 @@
+[submodule "talks/cuda-basics"]
+	path = talks/cuda-basics
+	url = https://github.com/dargmuesli/cuda-basics/
